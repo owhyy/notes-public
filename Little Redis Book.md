@@ -4,7 +4,7 @@ created: 2022-07-25
 keywords: [Redis, Backend, Python, Programming]
 ---
 
-[[8jzn-untitled|Redis]]
+#[[8jzn-untitled|Redis]]
 
 # Data types
 
