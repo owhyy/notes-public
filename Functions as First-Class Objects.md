@@ -1,0 +1,3 @@
+- although [[Map]], [[Filter]] and [[Reduce]] exist, [[List Comprehensions]]  and generators are a better alternative
+- implementing `__call__()` in a class allows objects to be called
+- you can define a function requiring positional-only parameters using `/` in the parameter list
