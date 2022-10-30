@@ -1,3 +1,5 @@
 # Generics
-#Programming #OOP #Java 
-> Equivalent of c++ templates
+
+#Programming #OOP #Java
+
+> #[[fqah-java]] equivalent of #[[l7p6-c]] templates

@@ -1,10 +1,10 @@
 ---
-title: Registers
+title: CPU Registers
 created: 2022-10-12
 keywords: [Systems]
 ---
 
-- Special set of variables inside a [[xuo9-cpu]].
+- Special set of variables inside a #[[37ve-processors]]
 - Different architectures ([[1mry-intel-processors]], [[f5um-arm-processors]]) have different registers
 
 # Registers and their use

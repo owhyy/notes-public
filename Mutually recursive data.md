@@ -1,11 +1,10 @@
 # Mutually recursive data
-#SICP #Programming 
 
-An **arbitrary errity tree** is a mutually recursive tree. It's just like a *binary tree*, but can have more than 2 branches (can grow in width)
+#SICP #Programming
 
-The data definition includes the object's definition and a (listof the element)
+- The data definition includes the object's definition and a (`listof` the element)
 
-Template for mutually recursive data (an arbitrary errity tree), with local:
+- Template for mutually recursive data (an [[sc4r-arbitrary-errity-tree]]), with `local`:
 
 ```scheme
 (define (fn-for-x x0)
@@ -17,4 +16,4 @@ Template for mutually recursive data (an arbitrary errity tree), with local:
 			(... (fn-for-x (first lox)
 	(fn-for-lox (rest lox)))])]
  (fn-for-x x0)
- ```
+```

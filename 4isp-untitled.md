@@ -20,4 +20,4 @@ If we now want to add some new behavior, like filtering, we'll define a class
 class FilteredLogger(Logger) # class implementing filtering behavior
 ```
 
-But here is where the problem lays. If we want to implement filtering to `SocketLogger` and other `Logger` derivated classes, we need to create new classes for every implementation. (*explosion of subclasses*)
+But here is where the problem lays. If we want to implement filtering to `SocketLogger` and other `Logger` derivated classes, we need to create new classes for every implementation. (_explosion of subclasses_)

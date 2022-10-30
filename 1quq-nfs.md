@@ -1,5 +1,5 @@
 ---
-title: NFS
+title: #[[2ntn-exploit|Exploiting]] NFS
 created: 2022-09-28
 keywords: [Programming, Hacking]
 ---

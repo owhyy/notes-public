@@ -1,5 +1,5 @@
 ---
-title: File Inlcusion
+title: File Inclusion #[[2ntn-exploit]]
 created: 2022-10-09
 keywords: [Hacking]
 ---

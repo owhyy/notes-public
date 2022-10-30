@@ -1,7 +1,7 @@
 ---
 title: How To Solve It
 created: 2022-08-05
-keywords: [Math Programming]
+keywords: [Math, Programming]
 ---
 
 [[https://libgen.gs/ads.php?md5=50eb126cbd40439306f9e456bec4a85e][link]]

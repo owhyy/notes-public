@@ -9,7 +9,7 @@
 
   > Always define **primary keys**, so you can manage the table in the future
 
-- #[[Databases]] are modified in a DataBase Management Studio (DBMS), which there are more of, and which mostly differ in their #[[ucn0-database-functions]]
+- #[[Databases and Tables]] are modified in a DataBase Management Studio (DBMS), which there are more of, and which mostly differ in their #[[ucn0-database-functions]]
 [[Functions]].
 - DBMS are used to manipulate large amounts of data.
 - See also [[Relational databases]].
