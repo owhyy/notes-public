@@ -12,6 +12,6 @@ keywords: [Redis, Backend, Python, Programming]
 - You can have atomic operation batches (group a bunch of operations as a entire unit, execute either all of them, or none)
 - Don't use the `keys` command in prod, because it's slow. Use a hash
 
-## [[8jdy-strings]]
+[[8jdy-strings]]
 
-## [[08i7-untitled]]
+[[08i7-untitled]]

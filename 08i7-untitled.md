@@ -4,7 +4,7 @@ created: 2022-08-06
 keywords: [Redis, Backend, Python, Programming]
 ---
 
-## Hashses
+## #[[8jzn-untitled]] Hashses
 
 - `hset` and `hget`
 - You can only acces the _keys_, but not the _values_
