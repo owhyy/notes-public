@@ -1,8 +1,10 @@
 ---
-title: File Inclusion #[[2ntn-exploit]]
+title: File Inclusion Exploit
 created: 2022-10-09
 keywords: [Hacking]
 ---
+
+# File Inclusion #[[2ntn-exploit]]
 
 - Being able to read files like `get.php?file=/var/...` _because there is no input validation_
 - If having write access to `/tmp`, you can have [[zczf-remote-command-executio|Remote command execution]]

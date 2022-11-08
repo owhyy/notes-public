@@ -1,10 +1,10 @@
 ---
-title: ARM #[[37ve-processors]]
+title: ARM processors
 created: 2022-10-14
 keywords: [Systems]
 ---
 
-# Key features
+# Key features of ARM #[[37ve-processors]]
 
 - 32 [[9t6c-bits]] long
 - [[q7dp-risc]]

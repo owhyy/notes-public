@@ -1,8 +1,10 @@
 ---
-title: #[[Function Closures]] in #[[mo3z-sml]]
+title: Function Closures in SML
 created: 2022-10-30
 keywords: [SML, Programming]
 ---
+
+# #[[Function Closures]] in #[[mo3z-sml]]
 
 > The pair (the function code and the environment that was current when we created the function)
 
@@ -14,7 +16,7 @@ fun f y = x + y (* binds f to closure where x maps to 1 *)
 val x = 3;      (* x is shadowed, f still uses x as 1 *)
 ```
 
-2.  [[Let expressions]] and closure
+2.  #[[Let expressions]] and closure
 
 ```sml
 val x = 1 (* x maps to 1 in the environment *)

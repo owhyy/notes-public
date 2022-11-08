@@ -1,8 +1,10 @@
 ---
-title: #[[Let expressions]] in #[[2by8-scheme]]
+title: Let expressions in Scheme
 created: 2022-10-30
 keywords: [Programming]
 ---
+
+# #[[Let expressions]] in #[[2by8-scheme]]
 
 - syntax: `(let bindings body)
 - `let` vs `let*` vs `let-rec`

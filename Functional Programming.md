@@ -1,5 +1,5 @@
 ---
-title: Functional Programming
+title: Functional Programming vs OOP
 created: 2022-10-30
 keywords: [Programming, OOP]
 ---

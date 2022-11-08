@@ -2,7 +2,7 @@
 
 #SICP #Programming
 
-> Just like an [[Mutually recursive data|arbitrary errity tree]], but
+> Just like an #[[sc4r-arbitrary-errity-tree]], but
 
 - you can go back to the previous node and nodes
 - can have multiple nodes going to a single node
