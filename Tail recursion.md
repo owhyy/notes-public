@@ -2,9 +2,7 @@
 
 #Programming #SICP #SML
 
-> Position in which the operation called is the one producing the result of the whole recursive function
-
-In structural recursion, the calls to non-tail-position function needs to add them to the stack, until the base case is reach, and only then it starts evaluating:
+> Position in which the operation called is the one producing the result of the whole [[qznn-recursion|recursive function]]
 
 ```scheme
 (+ (first lon)

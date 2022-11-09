@@ -5,3 +5,4 @@ keywords: [Systems]
 ---
 
 > Brain of a computer
+- [[shse-instruction-set]]#

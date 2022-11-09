@@ -2,7 +2,7 @@
 
 #Databases
 
-> A word specifying details about a [[Statements|statement]]
+> A word specifying details about a #[[Statements|statement]]
 
 ## ORDER BY
 

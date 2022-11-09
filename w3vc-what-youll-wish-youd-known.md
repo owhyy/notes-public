@@ -1,5 +1,5 @@
 ---
-title: What You'll wish You'd Known
+title: What You'll Wish You'd Known
 created: 2022-10-30
 keywords: [Essay]
 ---

@@ -1,7 +1,8 @@
 ---
 title: CPU Registers
 created: 2022-10-12
-keywords: [Systems]
+tags:
+  - Systems
 ---
 
 - Special set of variables inside a #[[37ve-processors]]

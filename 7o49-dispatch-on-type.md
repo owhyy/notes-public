@@ -24,5 +24,5 @@ define g(obj):
 
 # Weaknesses
 
-1. Adding a new type would require the [[qe97-generic-interface]] to add a new case to every existing case expression.
+1. Adding a new type would require the [[qe97-generic-interface]]# to add a new case to every existing case expression.
 2. We must be careful to avoid name clashes, (since every new type will require a bunch of new functions, with similar names).

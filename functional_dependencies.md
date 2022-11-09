@@ -1,8 +1,8 @@
-# Dependențe funcționale
+# Functional dependencies
 
 #Databases
 
-> O dependență funcțională $X \rightarrow Y$ înseamnă că dacă știm $X$ putem afla $Y$
+> Într-o #[[Databases and Tables|bază de date]], $X \rightarrow Y$ înseamnă că dacă știm $X$ putem afla $Y$
 
 - O dependență funcțională nu e o funcție (in the sense that we plug a number and get a result), ci o operație de căutare
 

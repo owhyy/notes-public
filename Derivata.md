@@ -1,8 +1,11 @@
 # Derivata
+
 #Math
-> *Rise over run* a [[Limite|limitei]] unei funcții ???
+
+> _Rise over run_ a #[[Limite|limitei]] unei funcții ???
 
 ## Aplicațiile derivatei în studiul funcției
+
 1. Punctele de extrem: $f'(x)=0$, tabel, valorile lui $x$ prin care, atunci când trece, funcția își schimbă semnul.
 2. Extremele: $f(x_1, \dots , x_n)$, valorile lui $y$ în punctele de extrem ale funcției
 3. Intervalele de monotonie: unde funcția crește și descrește

@@ -4,7 +4,7 @@ created: 2022-08-04
 keywords: [Python, Backend]
 ---
 
-- A package management system, better than pip because:
+- A #[[ubm8-python]] package management system, better than pip because:
   1. packages get added to `requirements.txt` (`poetry.lock`) automatically
   2. is configurable through `pyproject.toml`
   3. possibility to use multiple different `venv`s

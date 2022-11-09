@@ -2,7 +2,7 @@
 
 #Databases #Programming
 
-Refers to #[[Databases and Tables]]
+> The state of a #[[Databases and Tables]]
 
 ## FN1
 
@@ -12,5 +12,3 @@ Refers to #[[Databases and Tables]]
 - no duplicate rows
 
 ## FN2
-
--

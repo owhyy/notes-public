@@ -1,3 +1,5 @@
 # Compostition
-#Programming #Java #OOP 
+
+#Programming #Java #OOP
+
 > [[Inheritance|Child]] object gets destroyed when parent object gets destroyed

@@ -2,7 +2,7 @@
 
 #Databases
 
-> Joining some related tables, as if all the data were in the same one:
+> Joining some related #[[Databases and Tables]], as if all the data were in the same one:
 
 `SELECT name1_t1, name2_t1, name1_t2, name2_t2` <- data from two different tables
 `FROM t1, t2` <- two different tables

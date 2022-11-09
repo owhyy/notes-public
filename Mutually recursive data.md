@@ -4,7 +4,7 @@
 
 - The data definition includes the object's definition and a (`listof` the element)
 
-- Template for mutually recursive data (an [[sc4r-arbitrary-errity-tree]]), with `local`:
+- Template for mutually #[[qznn-recursion|recursive]] data (an [[sc4r-arbitrary-errity-tree]]), with `local`:
 
 ```scheme
 (define (fn-for-x x0)

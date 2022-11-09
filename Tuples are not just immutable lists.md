@@ -4,7 +4,7 @@ created: 2022-10-30
 keywords: [Programming, Python]
 ---
 
-- In #[[Python]]: empty: `(, )`
+- In #[[ubm8-python]]: empty: `(, )`
 - They are also unnamed dicts, where their meaning is given by the position of its items
 - Tuple unpacking (actually _iterable_ unpacking, since you can also unpack iterators): really useful feature, and is better, since you don't have to use indexes. Can be done in 2 ways
   - _paralel assignment: `a, b = c, d`_

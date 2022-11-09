@@ -4,4 +4,4 @@ created: 2022-10-14
 keywords: [Systems]
 ---
 
-- Least significant [[do9i-byte]] comes first.
+- #[[37ve-processors|Processor Architecture]] where the least significant [[do9i-byte]] comes first.

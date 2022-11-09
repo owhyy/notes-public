@@ -30,5 +30,5 @@ define g(obj: any):
 
 # Why?
 
-- Solves weaknesses of [[7o49-dispatch-on-type]]: names don't matter, only name of generic function;
+- Solves weaknesses of #[[7o49-dispatch-on-type]]: names don't matter, only name of generic function;
 - Easier to define procedures than [[zd0v-message-passing]]: _want to implement a new procedure? Just add it to the table._

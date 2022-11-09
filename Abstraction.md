@@ -2,7 +2,7 @@
 
 #SICP #OOP #Databases #Programming
 
-> The act of generalizing a [[Functions|function]] or some [[Data abstraction|data]]
+> The act of generalizing a [[Functions|function]] or some [[Data abstraction|data]]#
 
 - When done on data, it is called [[Data abstraction]], and functions that use abstraction are called [[Higher-order procedures]]
 

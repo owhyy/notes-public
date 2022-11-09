@@ -6,7 +6,7 @@ keywords: [Programming, Backend]
 
 # HTTP
 
-- Flow: user creates request -> TCP connection is created -> server gives response -> TCP connection is closed
+- Flow: user creates request -> [[r2i1-tcp]]# connection is created -> server gives response -> TCP connection is closed
 
 # WebSocket
 

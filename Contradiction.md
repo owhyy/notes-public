@@ -1,3 +1,5 @@
 # Contradiction
+
 #Math
-> A [[Statements]] that is always false
+
+> A #[[Logic Statement|statement]] that is always false

@@ -1,3 +1,5 @@
 # Tautology
-#Math 
-> A [[Statements]] that is always true
+
+#Math
+
+> A #[[Logic Statement]] that is always true

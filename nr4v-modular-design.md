@@ -4,7 +4,7 @@ created: 2022-07-26
 keywords: [Programming, Software Architecture]
 ---
 
-- A good module is a deep module: one that has powerful functionality but simple [[Interfaces]]. Microwave analogy: it's very complex inside, but has only a few simple buttons that controls it.
+- A good module is a deep module: one that has powerful functionality but simple [[Interfaces]]#. Microwave analogy: it's very complex inside, but has only a few simple buttons that controls it.
 - Although this helps make code more obvious(especially if you use good names) and simpler to use, if the implementation is complex, code will still be [[84su-complexity|complex]]
 - This goes against Clean Code advice of splitting long methods/classes into smaller ones. A class can be big, as long as its interface is small and obvious.
 

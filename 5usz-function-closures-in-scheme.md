@@ -4,7 +4,7 @@ created: 2022-10-30
 keywords: [Programming]
 ---
 
-# #[[Function Closures]] in [[2by8-scheme]]
+# Function Closures in #[[2by8-scheme]]
 
 > The ability to create [[Compound data]] from other [[Compound data]]:
 

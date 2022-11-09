@@ -4,7 +4,7 @@ created: 2022-10-30
 keywords: [SML, Programming]
 ---
 
-# #[[Function Closures]] in #[[mo3z-sml]]
+# Function Closures in #[[mo3z-sml]]
 
 > The pair (the function code and the environment that was current when we created the function)
 
@@ -16,7 +16,7 @@ fun f y = x + y (* binds f to closure where x maps to 1 *)
 val x = 3;      (* x is shadowed, f still uses x as 1 *)
 ```
 
-2.  #[[Let expressions]] and closure
+2. [[Let expressions]]# and closure
 
 ```sml
 val x = 1 (* x maps to 1 in the environment *)
@@ -38,4 +38,4 @@ f 4 (* will return a function that adds 9 to something *)
 ## Closure Idioms
 
 - function composition: `fn x = f(g(x))` (_you've seen this already, included just for example_) - equivalent to `(f o g) x`; however, this is _right to left_ (first apply `g(x)`, and then apply `f` on the result of `g(x)`) - `x |> g |> f` is equivalent to the above, but it is _left to right_
-- [[Currying]]
+- #[[Currying]]

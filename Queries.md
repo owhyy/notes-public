@@ -1,8 +1,9 @@
 # Queries
-#Databases 
 
-As mentioned in [[Statements]], a query is (generally) a `SELECT` statement.
-A **subquery** is a query inside a query, and is used when you need to access a column of a table **based on the results of another query**
+#Databases
+
+> a statement in a #[[Databases and Tables|database]], that returns some data
+> A **subquery** is a query inside a query, and is used when you need to access a column of a table **based on the results of another query**
 
 `SELECT name1`
 `FROM tab1`

@@ -1,4 +1,4 @@
-# #[[Python]] `mock`
+# Mocking
 
 #Python #Programming
 

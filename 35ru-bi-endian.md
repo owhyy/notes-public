@@ -4,4 +4,4 @@ created: 2022-10-14
 keywords: [Systems]
 ---
 
-- Supporting both, [[xg8e-little-endian]] and [[l7dw-big-endian]] representations
+> #[[37ve-processors|Processor Architecture]] supporting both, [[xg8e-little-endian]] and [[l7dw-big-endian]] representations

@@ -2,7 +2,7 @@
 
 #Databases
 
-> The same as a [[Databases and Tables|column]], except it's used when you refer to one that's been modified in some way.
+> The same as a #[[Databases and Tables|column]], except it's used when you refer to one that's been modified in some way.
 
 - For example, the stuff returned from `SELECT col_name FROM tab_name` is referred to as columns, while `SELECT '(' + col_name + ')' FROM tab_name` - as a field.
 - Some DBMS include the padding spaces, so we use the `RTRIM()` or `LTRIM()` [[Functions|functions]] to get rid of them.

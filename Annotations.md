@@ -4,7 +4,7 @@
 
 > Specifying something about some code
 
-- `@Override` tells the compiler that the method defined in a child [[Class]] overrides the method for base class; this makes it so if the arguments of the method of the base class change, you will get an error when using the child class argument, instead of calling the base class one:
+- `@Override` tells the compiler that the method defined in a child #[[Class]] overrides the method for base class; this makes it so if the arguments of the method of the base class change, you will get an error when using the child class argument, instead of calling the base class one:
 
 ```java
 public class BaseClass {

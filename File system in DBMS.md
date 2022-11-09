@@ -3,7 +3,7 @@
 #Databases
 
 - Hard Drive $\rightarrow$ File System $\rightarrow$ File - the File System is used to manipulate data;
-- Hard Drive $\rightarrow$ File System $\rightarrow$ Table - the #[[Databases and Tables|DBMS]] is used to manipulate the tables
+- Hard Drive $\rightarrow$ File System $\rightarrow$ Table - the #[[DBMS]] is used to manipulate the tables
 - Why use DBMS:
   1.  Data is structured (can have a type, format)
   2.  No need to know the location in order to access the data

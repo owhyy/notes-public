@@ -6,7 +6,7 @@ keywords: [Python, OOP, Programming]
 
 # Why?
 
-The problem with [[Inheritance]] is that oftentimes we need to implement a bunch of specialized behaviors, which leads to a bunch of subclasses. Suppose we have a simple class hierarchy:
+The problem with #[[Inheritance]] is that oftentimes we need to implement a bunch of specialized behaviors, which leads to a bunch of subclasses. Suppose we have a simple class hierarchy:
 
 ```python
 class Logger(object) # will be base class

@@ -1,6 +1,8 @@
-# Databases
-
-#Databases
+---
+title: Databases
+created: 2022-08-06
+keywords: [Databases]
+---
 
 > The main thing in which you create users and tables
 
@@ -9,7 +11,6 @@
 
   > Always define **primary keys**, so you can manage the table in the future
 
-- #[[Databases and Tables]] are modified in a DataBase Management Studio (DBMS), which there are more of, and which mostly differ in their #[[ucn0-database-functions]]
-[[Functions]].
+- Databases are modified in a [[DBMS]]#, which there are more of, and which mostly differ in their [[bwv6-aggregate-functions]]#
 - DBMS are used to manipulate large amounts of data.
-- See also [[Relational databases]].
+- See also [[Relational databases]]#.

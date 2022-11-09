@@ -4,7 +4,7 @@ created: 2022-10-15
 keywords: [Systems]
 ---
 
-- Smallest piece of [[ad6a-memory]], represented as a collection of 8 [[9t6c-bits]], and indexed by an number, called _address_.
+- Smallest piece of [[ad6a-memory]]#, represented as a collection of 8 [[9t6c-bits]]#, and indexed by an number, called _address_.
 
 # Data Sizes
 

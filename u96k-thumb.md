@@ -5,5 +5,4 @@ keywords: [Systems]
 ---
 
 - 16 [[9t6c-bits]] long
-- Same thing as ARM instructions, but smaller (16 vs 32 bits), and faster
-
+- Same thing as #[[f5um-arm-processors|ARM]] instructions, but smaller (16 vs 32 bits), and faster

@@ -6,7 +6,7 @@ keywords: [Programming, Math]
 
 # What?
 
-> Work performed with an actual purpose ([[6zy5-deliberate-practice]]), in a state of maximum concentration and reduced distractions, that is also challenging.
+> Work performed with an actual purpose (#[[6zy5-deliberate-practice]]), in a state of maximum concentration and reduced distractions, that is also challenging.
 
 # How?
 

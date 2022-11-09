@@ -1,4 +1,4 @@
 # Stored procedures
-#Databases 
+#Databases
 
-> A way to group and store SQL [[Statements]] for future use.
+> A way to group and store SQL #[[Statements]] for future use.

@@ -4,6 +4,8 @@ created: 2022-09-18
 keywords: [Networks]
 ---
 
+> The way to identify a machine in a #[[ruzb-network]]
+
 # Subnets masks represent the address part and the host part
 
 - 255.255.0.0: 255 parts represnt address number, 0 parts represent host number

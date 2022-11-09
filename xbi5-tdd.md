@@ -18,3 +18,5 @@ keywords: [Programming, Software Architecture]
 - When completely unsure of how to refactor, try doing 2 test cases of the same thing to come up with a solution (suppose we want to test for addition, we would do something like `assert 1 + 1 = 2` and `assert 1 + 2 = 3`)
 
 # Never interrupt an interruption
+
+- [[Mocking]]#
