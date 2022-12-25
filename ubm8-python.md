@@ -4,6 +4,6 @@ created: 2022-11-08
 keywords: [Programming, Programming Languages]
 ---
 
-> Mainstream multi-[[Paradigm|paradigm]] programming anguage
+> Mainstream multi-[[Paradigm|paradigm]] programming language
 
 - [[Dependency Injection]]#
